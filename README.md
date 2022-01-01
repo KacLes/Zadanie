@@ -3,6 +3,7 @@ Program pisany i testowany z wykorzystaniem Pythona 3.8
 Wymaga zainstalowanych bibliotek requests i cherrypy. Można wykorzystać komendy:
 
 > pip install requests
+> 
 > pip install cherrypy
 
 Program można uruchomić przechodząc do folderu Zadanie i wywołując następujące polecenie
